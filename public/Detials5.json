@@ -1,0 +1,27 @@
+[
+    {
+        "school": "ZFmechatronics",
+        "year": "2022",
+        "detials": "Developing a Mobile Application to Ashok Leyland Company, the project about Stock & Error Mechanisms for Machines using JAVA & FIREBASE."
+    },
+    {
+        "school": "PlacePrep",
+        "year": "2024",
+        "detials": "Developed a Mobile Application for placement Guidance and Providing a Efficient and required Knowledge to Easily Crack Any Product Based Companies Stuffs Include Primary Mathematical Content, Way to Effective Communication, and Core Techical Components Like(DBMS, NETWORKING, DSA, OOPs), Depth First Coding(Java)."
+    },
+    {
+        "school": "Alumni Web",
+        "year": "2023",
+        "detials": " We Develop the Second version of Our College Alumni Website with Enhancing the UI & Adding Several Backend Functionalities."
+    },
+    {
+        "school": "EMPLOYEE MANAGEMENT SYSTEM(EMS)",
+        "year": "2023",
+        "detials": " Developing a Mobile EMS Application with Enhancing the Basic features and UI Components using React & Flask. "
+    },
+    {
+        "school": "NUMBER PLATE RECOGNITION(ANPR)",
+        "year": "2023",
+        "detials": " Developing a Number Plate Recognition Mobile App to Enhance Road  Safety using FLUTTER and FIGMA(for UI) for Our College Smart Agni Hackathon."
+    }
+]
