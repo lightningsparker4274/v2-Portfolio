@@ -21,7 +21,7 @@ const Projectmain = () => {
       <div className="flex justify-between h-10 font-rajdhani">
         <div>
           <span className="my-6 text-4xl font-extrabold bottom-2 font-rajdhani">
-            Projects
+            {comp == "1" ? App Projects : Web Projects}
           </span>
           <div className="w-16 h-2 my-3 bg-purple-600 rounded-lg"></div>
         </div>
