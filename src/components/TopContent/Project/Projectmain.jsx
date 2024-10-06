@@ -6,7 +6,7 @@ import Web from "./Web";
 
 const Projectmain = () => {
 
-  const [comp, setComp] = useState("2");
+  const [comp, setComp] = useState("1");
   
   const loadcomp = (page) => {
     const nos = {
