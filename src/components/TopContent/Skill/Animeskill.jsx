@@ -27,7 +27,7 @@ const Animeskill = ({ id, title, detial ,color}) => {
       react: "hover:bg-sky-500 text-sky-500 border-sky-500",
       docker: "hover:bg-blue-600 border-blue-600 text-blue-600",
       spring: "hover:bg-green-600 border-green-600 text-green-600",
-      "python": "hover:bg-yellow-500 border-yellow-500 text-yellow-500",
+      python: "hover:bg-yellow-500 border-yellow-500 text-yellow-500",
     }[color] || "bg-gray-100";
   
   return (
