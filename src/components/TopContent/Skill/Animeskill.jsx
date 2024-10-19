@@ -12,7 +12,7 @@ const Animeskill = ({ id, title, detial ,color}) => {
       6: <img src="Spring.png" alt="" height={80} width={80}/>,
       7: <img src="Docker.png" alt="" height={70} width={70}/>,
       8: <img src="React.png" alt="" height={70} width={70}/>,
-      8: <img src="Python.png" alt="" height={70} width={70}/>,
+      9: <img src="Python.png" alt="" height={70} width={70}/>,
     };
     return icons[data];
   };
