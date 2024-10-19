@@ -56,7 +56,13 @@ const Skills = () => {
     "Data Access with Spring Data JPA(ORM)",
     "Spring Security",
   ];
-
+   const Python = [
+    "Python Core",
+    "Error Handling",
+    "OOP programming",
+    "Decorators & Context Managers",
+    "Web Scraping"
+  ];
   const Docker = [
     "Docker Images and Containers ",
     "Dockerfile",
@@ -80,12 +86,13 @@ const Skills = () => {
       <div className="flex flex-wrap justify-between ">
         <Animeskill id="1" title="WEBSTACK" detial={html} color="web" />
         <Animeskill id="2" title="NODE" detial={Node} color="node" />
+        <Animeskill id="8" title="React" detial={React} color="react" />
         <Animeskill id="3" title="JAVA" detial={Java} color="java" />
         <Animeskill id="4" title="FLUTTER" detial={Flutter} color="flutter" />
         <Animeskill id="5" title="Go" detial={Go} color="go" />
         <Animeskill id="6" title="Spring" detial={Spring} color="spring" />
         <Animeskill id="7" title="Docker" detial={Docker} color="docker" />
-        <Animeskill id="8" title="React" detial={React} color="react" />
+        <Animeskill id="9" title="Python" detial={Python} color="python" />
       </div>
     </div>
   );
