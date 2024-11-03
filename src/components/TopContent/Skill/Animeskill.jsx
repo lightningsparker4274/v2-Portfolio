@@ -13,6 +13,7 @@ const Animeskill = ({ id, title, detial ,color}) => {
       7: <img src="Docker.png" alt="" height={70} width={70}/>,
       8: <img src="React.png" alt="" height={70} width={70}/>,
       9: <img src="Python.png" alt="" height={70} width={70}/>,
+      10: <img src="Selenium.png" alt="" height={70} width={70}/>,
     };
     return icons[data];
   };
@@ -25,6 +26,7 @@ const Animeskill = ({ id, title, detial ,color}) => {
       java: "hover:bg-red-500 border-red-500 text-red-500",
       go: "hover:bg-sky-300 text-sky-300 border-sky-300",
       react: "hover:bg-sky-500 text-sky-500 border-sky-500",
+      selenium: "hover:bg-green-400 border-green-400 text-green-400",
       docker: "hover:bg-blue-600 border-blue-600 text-blue-600",
       spring: "hover:bg-green-600 border-green-600 text-green-600",
       python: "hover:bg-yellow-500 border-yellow-500 text-yellow-500",
