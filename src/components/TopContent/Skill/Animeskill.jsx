@@ -38,7 +38,7 @@ const Animeskill = ({ id, title, detial ,color}) => {
         <div className="w-40 h-40 shadow-inner m-7 bottom-3 left-7 lg:left-0 div circle circle::after">
           {loadata(id)}
         </div>
-        <div className="relative flex justify-between p-2 m-2 rounded-lg shadow-lg max-h-64 w-60 lg:max-h-46 lg:w-96 sq-vid">
+        <div className="relative flex justify-between p-2 m-2 overflow-auto rounded-lg shadow-lg max-h-64 w-60 lg:max-h-46 lg:w-96 sq-vid">
           <p className="pl-4 text-sm text-justify font-rajdhani">
             <span className="text-2xl font-bold font-rajdhani">Learned:</span>
             {detial.map((items, index) => (
