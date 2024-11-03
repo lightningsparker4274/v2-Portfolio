@@ -56,12 +56,12 @@ const Skills = () => {
     "Data Access with Spring Data JPA(ORM)",
     "Spring Security",
   ];
-   const Python = [
+  const Python = [
     "Python Core",
     "Error Handling",
     "OOP programming",
     "Decorators & Context Managers",
-    "Web Scraping"
+    "Web Scraping",
   ];
   const Docker = [
     "Docker Images and Containers ",
@@ -71,6 +71,17 @@ const Skills = () => {
     "Volumes ",
     "Docker Hub",
   ];
+
+  const Selenium = [
+    "Basics of Selenium and WebDriver",
+    "Locators & Web Elements Interaction",
+    "Data-Driven Testing with Excel & CSV",
+    "TestNG Integration and Annotations",
+    "Cross-Browser Testing & POM",
+    "Reporting with Extent Reports",
+    "CI/CD Integration with Jenkins",
+  ];
+
   /* ↓ ⇅ ⇩ ▼ Ⅴ ∨ ⩔ ▽  */
   return (
     <div className="max-h-[650px] overflow-auto mt-5">
@@ -89,6 +100,7 @@ const Skills = () => {
         <Animeskill id="8" title="React" detial={React} color="react" />
         <Animeskill id="3" title="JAVA" detial={Java} color="java" />
         <Animeskill id="4" title="FLUTTER" detial={Flutter} color="flutter" />
+        <Animeskill id="10" title="Selenium" detial={Selenium} color="selenium"/>
         <Animeskill id="5" title="Go" detial={Go} color="go" />
         <Animeskill id="6" title="Spring" detial={Spring} color="spring" />
         <Animeskill id="7" title="Docker" detial={Docker} color="docker" />
