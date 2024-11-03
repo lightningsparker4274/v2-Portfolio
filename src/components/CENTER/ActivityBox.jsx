@@ -71,6 +71,7 @@ const ActivityBox = (props) => {
           />
         </svg>
       ),
+      5: <img src="test.svg" className="h-5"/>
     };
     return icons[data];
   };
@@ -80,8 +81,9 @@ const ActivityBox = (props) => {
   const colorClass =
     {
       red: "bg-red-50 border-2 border-red-50 hover:border-2 hover:border-pink-200",
-
       green:
+        "bg-green-100 border-green-50 hover:border-2 border-2 hover:border-green-300",
+      emerland:
         "bg-emerald-50 border-emerald-50 hover:border-2 border-2 hover:border-teal-200",
       blue: "bg-blue-50",
       sky: "bg-sky-50",
