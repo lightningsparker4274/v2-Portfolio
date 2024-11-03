@@ -20,17 +20,3 @@ const What_i_do = () => {
 
 export default What_i_do
 
-
-/* Sure, here are 20-word descriptions for each section:
-
-### UI/UX Design
-"Creating intuitive and engaging user experiences through thoughtful design, wireframing, and prototyping to ensure seamless interaction and visual appeal."
-
-### Web Development
-"Building responsive and dynamic websites using modern technologies and frameworks, ensuring functionality, performance, and cross-browser compatibility."
-
-### App Development
-"Developing user-friendly mobile applications with a focus on performance, security, and seamless user experience for both iOS and Android platforms."
-
-### Problem Solving
-"Tackling complex challenges with analytical thinking, innovative solutions, and efficient algorithms to deliver optimized and effective results." */
