@@ -14,7 +14,7 @@ const About = () => {
         e-commerce platforms, social media applications, and a placement
         assistance app. I've also gained valuable recognition through hackathons
         and technical events, showcasing my ability to thrive in dynamic
-        environments..
+        environments.
       </p>
     </div>
   );
