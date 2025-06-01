@@ -96,7 +96,7 @@ const ActivityBox = (props) => {
 
   return (
     <div
-      className={`flex flex-col w-[330px] p-4 rounded-xl ${colorClass} h-50 mt-5`}
+      className={`flex flex-col p-4 rounded-xl ${colorClass} h-50 mt-5`}
     >
       <p className="flex space-x-3 text-justify">
         <span className="p-2 bg-white shadow-xl rounded-3xl">
