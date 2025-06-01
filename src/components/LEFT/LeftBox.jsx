@@ -33,9 +33,9 @@ const LeftBox = ({ page }) => {
             subdetial="akashdurai4274@gmail.com"
           />
           <hr className="w-48" />
-          <DetialSection id="3" detial="Location" subdetial="Salem" />
+          <DetialSection id="3" detial="Location" subdetial="Chennai" />
           <hr className="w-48" />
-          <DetialSection id="4" detial="Birthday" subdetial="Dec 4 2003" />
+          <DetialSection id="4" detial="Birthday" subdetial="Dec 4 2002" />
         </div>
 
         {/* Resume Download Button */}
