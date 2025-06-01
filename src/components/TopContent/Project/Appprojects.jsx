@@ -6,7 +6,6 @@ const Appprojects = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    // Fetch the JSON data (replace 'data.json' with the path to your JSON file)
     fetch("Detial4.json")
       .then((response) => response.json())
       .then((data) => setData(data))
