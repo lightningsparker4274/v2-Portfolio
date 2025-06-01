@@ -57,7 +57,10 @@ const Box = ({ img, topic, color, data }) => {
   };
 
   return (
-    <div className={`w-40 mr-4 rounded-lg shadow-lg ${colorClass}`}>
+    <div
+      className={`w-40 mr-4 rounded-lg shadow-lg ${colorClass}`}
+      onClick={() => handleClick(data)}
+    >
       <div className="flex justify-between mr-2">
         <img
           src={img}
