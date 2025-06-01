@@ -12,7 +12,7 @@ const TopBox = ({ setPage }) => {
       <TIcons id="2" title="Skills" onpress={() => handleicon("2")} />
       <TIcons id="5" title="Projects" onpress={() => handleicon("3")} />
       <TIcons id="3" title="Resume" onpress={() => handleicon("4")} />
-      <TIcons id="6" title="Certificate" onpress={() => handleicon("5")} />
+      <TIcons id="6" title="Certifi..." onpress={() => handleicon("5")} />
     </div>
   );
 };
