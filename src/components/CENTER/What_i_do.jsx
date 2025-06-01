@@ -10,7 +10,7 @@ const What_i_do = () => {
   return (
     <div className="mt-5">
       <span className="text-3xl font-bold font-rajdhani">What I Do</span>
-      <div className="container flex flex-wrap justify-between">
+      <div className="container grid grid-cols-1 lg:grid-cols-2 gap-5 justify-between">
         <ActivityBox id="1" topic="Web Development" data={web} color="emerland"/>
         <ActivityBox id="2" topic="App Development" data={app} color="red"/>
         <ActivityBox id="3" topic="UI/Ux" data={uiux} color="yellow"/>
