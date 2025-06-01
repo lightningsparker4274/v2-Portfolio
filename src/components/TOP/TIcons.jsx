@@ -1,7 +1,4 @@
-/* import Person from "@mui/icons-material/Person2Outlined";
-import Work from "@mui/icons-material/BusinessCenterOutlined";
-import Resume from "@mui/icons-material/DescriptionOutlined";
-import Contact from "@mui/icons-material/ContactPageOutlined"; */
+
 import PropTypes from "prop-types";
 
 
