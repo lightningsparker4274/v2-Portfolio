@@ -22,7 +22,7 @@ const Stepper2 = ({ id }) => {
           id
         )} threed shadow-black-100`}
       ></div>
-      <Ripples2 size="1" /> 
+      <Ripples2 size="1" />
       <Ripples2 size="2" />
       <Ripples2 size="3" />
       <Ripples2 size="4" />
