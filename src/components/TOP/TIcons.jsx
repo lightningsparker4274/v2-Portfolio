@@ -117,7 +117,7 @@ const TIcons = (props) => {
     <div className="">
       <button
         onClick={onpress}
-        className="flex flex-col items-center justify-center p-6 mx-2 my-2 text-center text-gray-700 bg-gray-100 border-2 border-gray-100 rounded-xl hover:border-purple-500 hover:text-purple-500 max-h-12 max-w-12 "
+        className="flex  flex-col items-center justify-center p-6 mx-2 my-2 text-center text-gray-700 bg-gray-100 border-2 border-gray-100 rounded-xl hover:border-purple-500 hover:text-purple-500 max-h-12 max-w-12 "
       >
         <span>{loadIcon(id)}</span>
         <span className="text-xs font-thin font-rajdhani">{title}</span>
